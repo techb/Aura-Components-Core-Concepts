@@ -1,3 +1,3 @@
 <aura:application>
-    <c:myEverythingComponent />
+    <c:myFirstComponent />
 </aura:application>
